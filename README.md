@@ -1,5 +1,5 @@
 # time_series_intro
-the code for the "regression analysis of time series" course I teach in 2021S2, using Julia, R, Python and Stata in Jupyter notebook
+the code for the "regression analysis of time series" course I teach in 2021S2, using Python, Julia, R, Matlab and Stata in Jupyter notebook
 
 * W2 : Moving Average (MA), Autoregressive (AR), and ARMA Models
 * W3 : ARMA - Model Estimation and Forecasting
