@@ -17,3 +17,7 @@
 * W6 : Forecasting with Seasonality and Cycles
 * W7 : Forecasting with Trends and Structural Breaks
 * W8 : Modeling Volatility: ARCH and GARCH Models
+* W9 : VAR for Multivariate Time Series: Modeling and Estimation
+* W10: VAR for Multivariate Time Series: Interpretation and Forecasting
+* W11: Cointegration and Spurious Regressions
+* W12: More Machine Learning algorithms
