@@ -7,3 +7,4 @@ the code for the "regression analysis of time series" course I teach in 2021S2, 
 * W5 : Non-stationary Time Series, Unit Root Tests, and ARIMA Models
 * W6 : Forecasting with Seasonality and Cycles
 * W7 : Forecasting with Trends and Structural Breaks
+* W8 : Modeling Volatility: ARCH and GARCH Models
