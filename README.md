@@ -10,14 +10,11 @@
 
 ## the content of my code is
 
-* W2 : Moving Average (MA), Autoregressive (AR), and ARMA Models
-* W3 : ARMA - Model Estimation and Forecasting
-* W4 : ARMA - Model Selection and Diagnostics
-* W5 : Non-stationary Time Series, Unit Root Tests, and ARIMA Models
-* W6 : Forecasting with Seasonality and Cycles
-* W7 : Forecasting with Trends and Structural Breaks
-* W8 : Modeling Volatility: ARCH and GARCH Models
-* W9 : VAR for Multivariate Time Series: Modeling and Estimation
-* W10: VAR for Multivariate Time Series: Interpretation and Forecasting
-* W11: Cointegration and Spurious Regressions
-* W12: More Machine Learning algorithms
+* Part 01 : Moving Average (MA), Autoregressive (AR), and ARMA Models
+* Part 02 : ARMA - Model Estimation and Forecasting
+* Part 03 : ARMA - Model Selection and Diagnostics
+* Part 04 : Non-stationary Time Series, Unit Root Tests, and ARIMA Models
+* Part 05 : Forecasting with Seasonality and Cycles
+* Part 06 : Forecasting with Trends and Structural Breaks
+* Part 07 : Modeling Volatility: ARCH and GARCH Models
+* Part 08 : VAR for Multivariate Time Series: Modeling and Estimation
